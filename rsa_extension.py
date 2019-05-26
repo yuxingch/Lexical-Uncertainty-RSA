@@ -1,4 +1,4 @@
-"""Adapted from Ling 130a/230a: Introduction to semantics and pragmatics,
+"""Skeleton adapted from Ling 130a/230a: Introduction to semantics and pragmatics,
 Winter 2019 http://web.stanford.edu/class/linguist130a/
 """
 import numpy as np
